@@ -2,6 +2,14 @@
 
 <img width="351" alt="image" src="https://user-images.githubusercontent.com/7874545/231309515-68458295-e6d6-4fc7-a626-c154a8a08d22.png">
 
+**Design Apps**:
+
+* Logo: https://studio.tailorbrands.com/brands/8272476756/logos
+* Website: https://my.10web.io/websites
+* Hosting: https://id.cenuta.com/clientarea/domains/9983/datascif1.com
+
+**Slogans**:
+
 * No one knows it all. Assess your expertise in specific categories.
 * You can not learn everything at once, but one step at a time.
 * Know what you don't know.

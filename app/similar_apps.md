@@ -85,3 +85,5 @@ these websites can provide a more comprehensive and accessible data science asse
   email verification, company targetted, insufficient topics
   
 * [Data Science Assessment Test | Adaface](https://www.adaface.com/assessment-test/data-science-test)
+
+* https://app.adaface.com/app/scorecard/public/data-science-test 
